@@ -1,5 +1,13 @@
 # Global Records of Stocks and Fisheries Areas Database - Change log
 
+## 2025.2.1 (2025-09-29)
+
+### Data updates
+
+- [#8](https://github.com/GRSF/water_areas_shapefiles/issues/8) SEAFDEC Areas update - SEAFDEC Workshop findings
+- [#7](https://github.com/GRSF/water_areas_shapefiles/issues/7) New Viet Nam areas - SEAFDEC Workshop findings
+- [#6](https://github.com/GRSF/water_areas_shapefiles/issues/6) New Malaysia areas - SEAFDEC Workshop findings
+
 ## 2025.2.0 (2025-08-25)
 
 ### Enhancements
