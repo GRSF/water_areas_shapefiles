@@ -1,5 +1,10 @@
 # Global Records of Stocks and Fisheries Areas Database - Change log
 
+## 2025.2.2 (2025-10-01)
+
+- Addition of extra data resource to DOI: `grsf_areas_vocabulary.csv`
+- Addition of extra data resource to DOI: `grsf_areas_vocabulary_nfi.csv`
+
 ## 2025.2.1 (2025-09-29)
 
 ### Data updates
