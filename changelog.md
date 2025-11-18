@@ -1,5 +1,9 @@
 # Global Records of Stocks and Fisheries Areas Database - Change log
 
+## 2025.2.3 (2025-11-18)
+
+- Modification of the ID to be lowercase (for compliance with NFI systems)
+
 ## 2025.2.2 (2025-10-01)
 
 - Addition of extra data resource to DOI: `grsf_areas_vocabulary.csv`
