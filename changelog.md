@@ -1,8 +1,14 @@
 # Global Records of Stocks and Fisheries Areas Database - Change log
 
-## 2025.2.3 (2025-11-18)
+## 2025.2.3 (2025-12-18)
+
+### Enhancements
 
 - Modification of the ID to be lowercase (for compliance with NFI systems)
+
+### Data updates
+
+- [#9](https://github.com/GRSF/water_areas_shapefiles/issues/9) Update GFCM GSAs
 
 ## 2025.2.2 (2025-10-01)
 
