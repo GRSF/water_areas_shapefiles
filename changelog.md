@@ -5,7 +5,7 @@
 ### Data updates
 
 - [#11](https://github.com/GRSF/water_areas_shapefiles/issues/11) Faroe Islands - SFP request
-- [#13](https://github.com/GRSF/water_areas_shapefiles/issues/13)ICES Nephrops FU
+- [#13](https://github.com/GRSF/water_areas_shapefiles/issues/13) ICES Nephrops FU
 - [#14](https://github.com/GRSF/water_areas_shapefiles/issues/14) Canada DFO Shrimp Assessment Regions
 - [#15](https://github.com/GRSF/water_areas_shapefiles/issues/15) Canada DFO Scallop Functional Unit 29W Subareas A-E 
 
