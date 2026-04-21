@@ -11,7 +11,7 @@
 
 ### Enhancements
 
-- [#12] (https://github.com/GRSF/water_areas_shapefiles/issues/12) Typologies correction and harmonization
+- [#12](https://github.com/GRSF/water_areas_shapefiles/issues/12) Typologies correction and harmonization
 
 
 ## 2025.2.3 (2025-12-18)
